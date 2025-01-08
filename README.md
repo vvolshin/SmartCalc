@@ -12,7 +12,7 @@
 
 ## Описание программы
 ### Страница Calculator
-\image html ./screenshots/1.1.png width=600 height=450
+\image html .docs/screenshots/1.1.png width=600 height=450
 \htmlonly
 <p align="center">Рис. 1. Страница Calculator: ввод выражения</p>
 \endhtmlonly
@@ -56,7 +56,7 @@
 - Кнопка "⌫" удаляет только один последний символ из активной строки ввода выражения или значения "x".<br>
 
 При невозможности программы к вычислениям предусмотрен вывод ошибки в строке вывода.<br>
-\image html ./screenshots/1.2.png width=600 height=450
+\image html .docs/screenshots/1.2.png width=600 height=450
 \htmlonly
 <p align="center">Рис. 2. Страница Calculator: пример вывода ошибки</p>
 \endhtmlonly
@@ -71,13 +71,13 @@
 7. Некорректное применение x: "Error: wrong x usage".<br>
 
 При валидной строке ввода, после нажатия на кнопку "=", пользователь получает результат вычислений.<br>
-\image html ./screenshots/1.3.png width=600 height=450
+\image html .docs/screenshots/1.3.png width=600 height=450
 \htmlonly
 <p align="center">Рис. 3. Страница Calculator: пример вывода результата вычислений при валидном выражении</p>
 \endhtmlonly
 
 ### Страница Graph
-\image html ./screenshots/2.png width=600 height=450
+\image html .docs/screenshots/2.png width=600 height=450
 \htmlonly
 <p align="center">Рис. 4. Страница Graph: пример построения графика</p>
 \endhtmlonly
@@ -97,7 +97,7 @@ Ymax = 10.00.<br>
 На данной странице в строке выражения помимо ошибок со страницы Calculator предусмотрена еще одна, возникающая при логическом несоответствии параметров min и max у X или Y: "Error".<br>
 
 ### Страница Credit
-\image html ./screenshots/3.png width=600 height=450
+\image html .docs/screenshots/3.png width=600 height=450
 \htmlonly
 <p align="center">Рис. 5. Страница Credit: пример расчета кредита</p>
 \endhtmlonly
@@ -113,7 +113,7 @@ Ymax = 10.00.<br>
 Предусмотрена ошибка: "Error", если пользователь ввел невалидные значения (указаны в параметрах).<br>
 
 ### Страница Payment Calendar
-\image html ./screenshots/4.png width=600 height=450
+\image html .docs/screenshots/4.png width=600 height=450
 \htmlonly
 <p align="center">Рис. 6. Страница Payment Calendar: пример графика платежей по кредиту</p>
 \endhtmlonly
