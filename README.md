@@ -10,7 +10,7 @@
 
 ## Описание программы
 ### Страница Calculator
-<img src="docs/screenshots/1.1.png" alt="Рис. 1. Страница Calculator: ввод выражения" width="600" height="450" />
+<img src="docs/screenshots/1.1.png" width="600" height="450" />
 
 <p align="center">Рис. 1. Страница Calculator: ввод выражения</p>
 
