@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>tuiIconChartLineLarge.png</file>
+        <file>tuiIconAlignJustifyLarge.png</file>
+        <file>tuiIconChevronDownLarge.png</file>
+        <file>tuiIconDeleteLarge.png</file>
+        <file>tuiIconChevronUpLarge.png</file>
+        <file>tuiIconRemoveLarge.png</file>
+        <file>8.png</file>
+        <file>8.svg</file>
+        <file>MainIcon256.icns</file>
+        <file>MainIcon256.ico</file>
+        <file>Union.png</file>
+        <file>filler.svg</file>
+    </qresource>
+</RCC>
